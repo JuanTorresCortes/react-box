@@ -2,6 +2,20 @@
   text-align: center;
 }
 
+.sqDiv{
+  display: flex;
+  justify-content: space-evenly;
+  
+  border: .05rem solid black;
+}
+
+.main{
+  display: flex;
+  justify-content: space-between;
+  height: 70vh;
+}
+
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;

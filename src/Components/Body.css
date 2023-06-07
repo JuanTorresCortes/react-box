@@ -1,0 +1,7 @@
+.body {
+    width: 75%;
+    height: 100vhw;
+    border: .05rem solid black;
+    display: flex;
+    flex-direction: column;
+}
